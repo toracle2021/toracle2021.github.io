@@ -1,0 +1,22 @@
+---
+layout: default
+category: Services
+title: Call For Papers<br>
+description: |
+---
+  
+We accept the following types of contributions:
+
+* **Long papers**: 10 page papers (including references and appendices) that present complete and novel research.
+* **Short papers**: 4 page papers (including references and appendices) that present one of the following:
+
+  * **Position and Vision Paper**: to propose radical, innovative new ideas, arguments, and research directions. These papers should generate discussion and debate.
+  * **Work-in-Progress Paper**: should describe novel work that is not at the same level of research maturity as a full submission.
+  * **Industrial and Experience Paper**: describe the experiences gained from applying/evaluating techniques to alleviate the oracle problem in an industrial context.
+* **Demonstration paper**: 2 page papers that describe a novel technique or tool that will be presented to the workshop audience as a 45-60 minute tutorial session.
+
+
+The papers must be written in English and submitted as PDF documents. They should follow the ESEC/FSE 2021 Format and Submission Guidelines.
+[https://2021.esec-fse.org/track/fse-2021-how-to-submit](https://2021.esec-fse.org/track/fse-2021-how-to-submit)
+  
+  

@@ -1,0 +1,17 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Committee Members
+description: |
+---
+  **Organizers**
+  
+  * [**Gunel Jahangirova**](https://sites.google.com/view/guneljahangirova) <br> Università della Svizzera italiana (USI), Lugano, Switzerland
+  
+  * [**Valerio Terragni**](https://valerio65.github.io/) <br> University of Auckland, Auckland, New Zealand
+  
+  
+  **PC Members**
+  
+  TBA
