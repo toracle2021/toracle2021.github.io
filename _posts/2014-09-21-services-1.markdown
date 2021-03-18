@@ -4,19 +4,46 @@ category: Services
 title: Call For Papers<br>
 description: |
 ---
-  
+TORACLE calls for high quality papers related to the test oracle problem.
+
 We accept the following types of contributions:
 
-* **Long papers**: 10 page papers (including references and appendices) that present complete and novel research.
+* **Long papers**: 10-page papers (including references and appendices) that present authors' original research work and results.
 * **Short papers**: 4 page papers (including references and appendices) that present one of the following:
 
-  * **Position and Vision Paper**: to propose radical, innovative new ideas, arguments, and research directions. These papers should generate discussion and debate.
-  * **Work-in-Progress Paper**: should describe novel work that is not at the same level of research maturity as a full submission.
-  * **Industrial and Experience Paper**: describe the experiences gained from applying/evaluating techniques to alleviate the oracle problem in an industrial context.
-* **Demonstration paper**: 2 page papers that describe a novel technique or tool that will be presented to the workshop audience as a 45-60 minute tutorial session.
+  * **Position and Vision Paper**: to propose radical, innovative new ideas, arguments, and research directions. 
+  * **Work-in-Progress Paper**: to describe novel work that is not at the same level of research maturity as a full submission.
+  * **Industrial and Experience Paper**: to describe the experience gained from applying/evaluating techniques to alleviate the oracle problem in an industrial context.
+  * **Demonstration paper**: to describe new research tools, data, and other artifacts related to the test oracle problem. We also encourage the submission of demonstrations of already published research techniques. However, a demonstration paper submission must not have been previously published in a demonstration form.  Authors of accepted papers can choose to give either a presentation or a live demonstration.
+
+Each submission will be reviewed by three members of the program committee. The main evaluation criteria include the relevance and quality of the submission in terms of technical soundness, novelty, relevance for the TORACLE audience, and presentation quality.
+
+Accepted contributions will be included in the ESEC/FSE 2021 proceedings.
+
+**How to Submit**
+
+TORACLE 2021 will employ a <b>double-blind review process</b>. The papers submitted must not reveal the authors’ identities in any way. The authors’ names must be omitted from the submission, and references to their prior work should be made in the third person. <ins>The only exception are Demonstration papers, which will  employ a single-blind review process.</ins> The demonstration papers submitted do not need to hide the authors’ identities.
+
+All papers must conform to the [ESEC/FSE 2021 formatting instructions](https://2021.esec-fse.org/track/fse-2021-how-to-submit#submission-policies).
+The page limit is strict.  Submitted papers must be written in English and in PDF format. They must be unpublished and not submitted for publication elsewhere. Papers must be submitted electronically through the HOTCRP submission site: [http://esecfse2021-toracle.hotcrp.com/](http://esecfse2021-toracle.hotcrp.com/). The submission deadline is <b>June 1, 2021.</b>
 
 
-The papers must be written in English and submitted as PDF documents. They should follow the ESEC/FSE 2021 Format and Submission Guidelines.
-[https://2021.esec-fse.org/track/fse-2021-how-to-submit](https://2021.esec-fse.org/track/fse-2021-how-to-submit)
+**Topics Of Interest**
+
+* Automated generation of test case assertion oracles.
+Automated generation of contracts, program assertions, invariants, pre and post-conditions.
+* Metrics and techniques for assessing the quality of oracles.
+* Oracles for specific types of software systems such as deep learning systems, machine learning systems, cyber-physical systems, web applications, and mobile applications.
+* Automated improvement of test oracles.
+* Automated extraction of oracles from various natural language sources.
+Metamorphic oracles.
+* Oracles for non-functional properties, such as security, performance.
+* Oracle-based coverage criteria.
+* Empirical evaluations of oracle-related techniques in real-world scenarios.
+* Techniques for reducing the cost of manually deriving test oracles.
+* Theoretical formalisation and analysis of the oracle problem.
+
+If you have doubts about your submission being in the scope of the workshop, do not hesitate to contact the organisers. 
+
   
   
