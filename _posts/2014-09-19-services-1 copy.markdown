@@ -8,7 +8,7 @@ description: |
 
 [Prof. Alastair Donaldson](https://www.imperial.ac.uk/people/alastair.donaldson), Imperial College London, UK
 
-August 24, 10:00 - 11:00 EEST (UTC +3) 
+August 24, 10:10 - 11:10 EEST (UTC +3) 
 
 **Title:** Oracles, Test Case Reduction and Undefined Behaviour in Randomized Testing
 
